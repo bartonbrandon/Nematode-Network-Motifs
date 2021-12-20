@@ -1,2 +1,2 @@
 # NematodeNetworkMotifs
-Course project for CSCI 598: Graph Analysis and Network Science 
+Course project for SP TPS CSCI 598: Graph Analysis and Network Science 
